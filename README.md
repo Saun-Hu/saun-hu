@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saun-Hu
+- 👋 Hi, this is @Saun-Hu
 - 👀 I’m interested in Python , Opencv and deep Learning
 - 🌱 I’m currently learning opencv
 - 💞️ I’m looking to collaborate on nothing 
