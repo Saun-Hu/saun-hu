@@ -1,7 +1,7 @@
 - 👋 Hi, this is @Saun-Hu
-- 👀 I’m interested in Python , Opencv and deep Learning
-- 🌱 I’m currently learning opencv
-- 💞️ I’m looking to collaborate on nothing 
+- 👀 I’m interested in Python , Computer Vision and deep Learning
+- 🌱 I’m currently learning deep learning
+- 💞️ I’m looking to collaborate on Computer Vision 
 - 📫 e-mail@ 1045746204@qq.com
 
 <!---
