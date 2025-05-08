@@ -1,7 +1,7 @@
 - 👋 Hi, this is @Saun-Hu
 - 👀 interested in Python , Computer Vision and Deep Learning
 - 🌱 Focused on defect detection algorithms for industrial product quality inspection
-- 📫 e-mail@ 1045746204@qq.com
+- 📫 e-mail@ husiyi@boe.com.cn
  Believe the road under my feet is leading to the future
 
 <!---
